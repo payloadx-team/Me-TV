@@ -27,7 +27,7 @@ build-options: {
 }
 modules: [
   {
-    name: me-tv,
+    name: verux-tv,
     buildsystem: meson,
     sources: [
       {
